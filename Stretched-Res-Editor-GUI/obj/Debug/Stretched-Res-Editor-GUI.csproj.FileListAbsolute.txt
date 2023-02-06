@@ -1,0 +1,11 @@
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\bin\Debug\Stretched-Res-Editor-GUI.exe.config
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\bin\Debug\Stretched-Res-Editor-GUI.exe
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\bin\Debug\Stretched-Res-Editor-GUI.pdb
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\obj\Debug\Stretched_Res_Editor_GUI.Form1.resources
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\obj\Debug\Stretched_Res_Editor_GUI.Properties.Resources.resources
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\obj\Debug\Stretched-Res-Editor-GUI.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\obj\Debug\Stretched-Res-Editor-GUI.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\obj\Debug\Stretched-Res-Editor-GUI.exe
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\obj\Debug\Stretched-Res-Editor-GUI.pdb
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\obj\Debug\Stretched-Res-Editor-GUI.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\Stretched-Res-Editor-GUI\Stretched-Res-Editor-GUI\obj\Debug\Stretched-Res-Editor-GUI.csproj.SuggestedBindingRedirects.cache
